@@ -1,0 +1,11 @@
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\WEBApi.exe
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\WEBApi.dll
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\WEBApi.deps.json
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\WEBApi.runtimeconfig.json
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\WEBApi.pdb
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Srdjan\Desktop\Blazor\WEBApi\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
